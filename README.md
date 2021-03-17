@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img alt="movies list" src="/">
+  <img alt="movies list" src="https://user-images.githubusercontent.com/17882257/111480695-06033780-8711-11eb-9e87-6869d51e4564.gif">
 </p>
 
 <br/>
