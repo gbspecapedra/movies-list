@@ -10,6 +10,7 @@
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
@@ -27,14 +28,14 @@
 </p>
 
 <p align="center">
-  <img alt="to.do list" src="/">
+  <img alt="movies list" src="/">
 </p>
 
 <br/>
 
 ## 💻 Project
 
-An application where your main objective is to refactor a page for listing films according to genre, to practice a little more about componentization in React. A challenge from [Rocketseat](https://rocketseat.com.br/)'s Ignite journey. 
+An application where your main objective is to refactor a page for listing films according to genre, to practice a little more about componentization in React. A challenge from [Rocketseat](https://rocketseat.com.br/)'s Ignite journey.
 
 ## 🚀 Technologies
 
@@ -46,6 +47,24 @@ This project was developed with the following technologies:
 ## 🔖 Layout
 
 Created from Rocketseat [template](https://github.com/rocketseat-education/ignite-template-componentizando-a-aplicacao).
+
+## ℹ️ How To Use
+
+<p>To clone and run this application, you'll need <a href="https://git-scm.com" rel="nofollow">Git</a> and  <a href="https://legacy.yarnpkg.com" rel="nofollow">Yarn</a>. From your command line:</p>
+    <div class="highlight highlight-source-shell">
+      <pre><span class="pl-c"><span class="pl-c">#</span> Clone the repository</span>
+$ git clone https://github.com/gisabernardess/movies-list.git <br/>
+<span class="pl-c"><span class="pl-c">#</span> Go into the directory</span>
+$ <span class="pl-c1">cd</span> movies-list <br/>
+<span class="pl-c"><span class="pl-c">#</span> Install dependencies</span>
+$ yarn <br/>
+<span class="pl-c"><span class="pl-c">#</span> Run the fake api</span>
+$ yarn server <br/>
+<span class="pl-c"><span class="pl-c">#</span> Run the development server</span>
+$ yarn dev <br/>
+<span class="pl-c"><span class="pl-c">#</span> Navigate to http://localhost:8080</span>
+<span class="pl-c"><span class="pl-c">#</span> The app will automatically reload if you change any of the source files.</span></pre>
+</div>
 
 ## ✨ Features
 
